@@ -57,7 +57,7 @@ SmartHome-Startup/ (Shared Drive, chủ sở hữu = công ty)
 
 ---
 
-## 2/ Bản quy ước văn hóa: 3 quy tắc quan trọng
+## Phần 2/ Bản quy ước văn hóa: 3 quy tắc quan trọng
 
 1. **Tránh No-Hello Trap:** Không nhắn mỗi chữ "Chào". Tin đầu phải trọn gói: người nhận + việc cần + hạn + link.
    *Ví dụ: "@Hà nhờ duyệt file thiết kế X trước 17:00 thứ Năm. Link: …"*
